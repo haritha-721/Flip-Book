@@ -1,1 +1,2 @@
 # Flip-Book
+cover.png
