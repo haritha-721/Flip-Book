@@ -1,2 +1,2 @@
 # Flip-Book
-cover.png
+C:\Users\DELL\Desktop\vs code projects\FlipCard\cover.png
